@@ -1,0 +1,35 @@
+Change Scene:
+
+    - Create a map : f7
+    - Load a save : f8
+    - Menu : tab
+    - Go back : f9
+
+Sound:
+
+    - Mute : f1
+    - Decrease : f2
+    - Increase : f3 
+
+Load Scene:
+
+    - Browse save : UP and DOWN Arrow keys
+    - Select Save : 1, 2, or 3
+
+Create Map:
+
+    - Change textbox : UP and DOWN Arrow key
+    - Validate : ENTER
+    - NAME : ONLY letter
+    - X, Y, SEED : ONLY NUMBER
+
+Map Scene:
+
+    - Move : Z, Q, S, D
+    - Rotate : Arrow keys
+    - Center : A
+    - Modify height : 1, 2
+    - Reset height : R
+    - Outline : O
+    - Save : f5
+    - Zoom : scroll

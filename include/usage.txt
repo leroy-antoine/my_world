@@ -1,0 +1,43 @@
+Docs: My World
+
+Overview:
+
+User output:
+
+    Music:
+
+        Press F1 to mute the music.
+        Press F2 to decrease the volume.
+        Press F3 to increase it.
+
+    Change Scene:
+
+        Press F7 to create a map.
+        Press F8 to load a save.
+        Press Tab to open the menu.
+        Press F9 to go back.
+
+    Load Scene:
+
+        Browse saves using the UP and DOWN arrow keys
+        Select a save by pressing 1, 2, or 3.
+
+    Create Map:
+
+        Change textbox using the UP and DOWN arrow keys.
+        Validate by pressing ENTER.
+        The name of the map must contain only letters, while the X, Y, and SEED values must be numerical.
+
+    Map Scene:
+
+        To move, use the Z, Q, S, and D keys.
+        To rotate, use the arrow keys. Press A to center the view.
+        To modify the height, press 1 or 2.
+        To reset the height, press R.
+        To toggle the outline, press O.
+        To save the map, press F5.
+        To zoom, use the scroll wheel.
+
+    Exit:
+
+        Press the Escape key.
